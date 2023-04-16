@@ -1,0 +1,166 @@
+.homepage-container {
+  min-height: 100vh;
+}
+.homepage-homepage {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(25, 20, 20, 1);
+}
+.homepage-profilepictureframe {
+  top: 232px;
+  left: 547px;
+  width: 345px;
+  height: 345px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.homepage-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 345px;
+  height: 345px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-ellipse2 {
+  top: 12px;
+  left: 13px;
+  width: 320px;
+  height: 320px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text {
+  top: 188px;
+  left: 532px;
+  color: rgba(255, 255, 255, 1);
+  width: 348px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gothic A1;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-matchbutton {
+  top: 745px;
+  left: 425px;
+  width: 590px;
+  height: 62px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(181, 3, 210, 1);
+}
+.homepage-text02 {
+  top: 12px;
+  left: 241px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gothic A1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text04 {
+  top: 712px;
+  left: 573px;
+  color: rgba(255, 255, 255, 1);
+  width: 293px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gothic A1;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text06 {
+  top: 599px;
+  left: 509px;
+  color: rgba(255, 255, 255, 1);
+  width: 422px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gothic A1;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text08 {
+  top: 20px;
+  left: 593px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gothic A1;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
